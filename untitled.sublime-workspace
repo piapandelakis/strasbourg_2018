@@ -1,0 +1,474 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"grid-template",
+				"grid-template-columns"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"fo",
+				"fondwhite"
+			],
+			[
+				"fondw",
+				"fondwhite"
+			],
+			[
+				"s",
+				"stretch"
+			],
+			[
+				"C",
+				"NotCourierSansBold"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"Hormono",
+				"Hormono-Design"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"border-to",
+				"border-top-left-radius"
+			],
+			[
+				"border-radius",
+				"border-top-left-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"backg",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1794,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 89.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"Set",
+				"Set Syntax: CSS"
+			],
+			[
+				"CSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"set syntax: h",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/ledigeste/piapandelakis.github.io/auteures.md",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.5_PARSONS/PARSONS_cinedesign-1718/CNDSG-sessions-01/index.html",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L3_CM_QUEER_DESIGN-2/QD-season2_slides/index.html",
+		"/Applications/MAMP/htdocs/oeilducyclone/site/templates/contact.php",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L3_CM_QUEER_DESIGN-2/QD-season2_slides/css/theme/simple.css",
+		"/Applications/MAMP/htdocs/oeilducyclone/site/blueprints/contact.yml",
+		"/Applications/MAMP/htdocs/oeilducyclone/site/templates/project.php",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G3/site/style_css.css",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G3/site/style.css",
+		"/Users/pia.pandelakis/Downloads/drive-download-20171229T105115Z-001/DOMENGES_siterendu/Notice_memes/styles.css/memes.css",
+		"/Users/pia.pandelakis/Downloads/drive-download-20171229T105115Z-001/DOMENGES_siterendu/Notice_memes/youtubesong.html",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G3/PRIVAT_siterendu/css/style03.css",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G3/MORAN_siterendu/styles.css",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G3/LETOT_siterendu/Notice Arobase/untitled.html",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G3/DHELLEMMES_Virus/virus/notice_virus.html",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G2/305_PROD-2D_site-rendu-G2/TAHAY_siterendu/notice_emojis.html",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G2/305_PROD-2D_site-rendu-G2/LAFUENTE_site rendu/notice_facebook.html",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G2/305_PROD-2D_site-rendu-G2/LAFUENTE_site rendu/index.html",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G2/305_PROD-2D_site-rendu-G2/HULIN_siterendu/css/notice_snapchat.css",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G2/305_PROD-2D_site-rendu-G2/HULIN_siterendu/notice_snapchat.html",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G2/305_PROD-2D_site-rendu-G2/HULIN_siterendu/index.html",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G2/305_PROD-2D_site-rendu-G2/FERRE_siterendu/FERRE_siterendu/index.html",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G2/305_PROD-2D_site-rendu-G2/De_Bentzmann_siterendu/css/clickbait.css",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G2/305_PROD-2D_site-rendu-G2/De_Bentzmann_siterendu/styles.css",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G2/305_PROD-2D_site-rendu-G2/BREIL_siterendu/style-notice-whatsapp.css",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G2/305_PROD-2D_site-rendu-G2/BOUNAIX_siterendu/CSS/podcast.css",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G2/305_PROD-2D_site-rendu-G2/BOUNAIX_siterendu/index.html",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G2/305_PROD-2D_site-rendu-G2/BOUNAIX_siterendu/notice_podcast.html",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G2/305_PROD-2D_site-rendu-G2/BOUGHATTAS_siterendu/hashtag.css",
+		"/Users/pia.pandelakis/Downloads/305_PROD-2D_site-rendu-G2/305_PROD-2D_site-rendu-G2/ALLETTO_siterendu/index.html",
+		"/Applications/MAMP/htdocs/oeilducyclone/assets/css/bulma.css",
+		"/Applications/MAMP/htdocs/oeilducyclone/site/templates/home.php",
+		"/Applications/MAMP/htdocs/oeilducyclone/panel/license.md",
+		"/Applications/MAMP/htdocs/oeilducyclone/index.php",
+		"/Applications/MAMP/htdocs/oeilducyclone/license.md",
+		"/Applications/MAMP/htdocs/site-master/master-dtct.github.io/_posts/2017-12-14-wks-materiaux-2.md",
+		"/Applications/MAMP/htdocs/site-master/master-dtct.github.io/_posts/2017-12-14-wks-materiaux-3.md",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L2_PROD-2D-web/site-lexique-democlasse-G3/styles.css",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L2_PROD-2D-web/site-lexique-democlasse-G3/auteures.html",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L2_PROD-2D-web/site-lexique-democlasse-G3/index.html",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L2_PROD-2D-web/site-lexique-democlasse-G3/apropos.html",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.3_MASTER-DTCT/master-DTCT_2017-18/M2-DTCT-1718/WKS_M2_MATERIAUX/SEX_PLAYS_PREZ/css/theme/pia.css",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.3_MASTER-DTCT/master-DTCT_2017-18/M2-DTCT-1718/WKS_M2_MATERIAUX/SEX_PLAYS_PREZ/index.html",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.2_CONFERENCES/2017/2017-11_QUOIMATIERESIGNE/QMS_PREZ/css/theme/pia.css",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.2_CONFERENCES/2017/2017-11_QUOIMATIERESIGNE/QMS_PREZ/index.html",
+		"/Applications/MAMP/htdocs/site-master/master-dtct.github.io/_posts/2017-11-12-wks-materiaux-1.md",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L2_PROD-2D-web/site-lexique-democlasse-G3/notice_rss.html",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L2_PROD-2D-web/site-lexique-demo/index.html",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L2_PROD-2D-web/site-lexique-democlasse-G2/index.html",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L2_PROD-2D-web/site-lexique-demo/styles.css",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L2_PROD-2D-web/site-prod2D-demo-gr3/untitled.html",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L2_PROD-2D-web/site-prod2D-demo-gr3/notice_rss.html",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L2_PROD-2D-web/site-prod2D-demo-gr3/untitledhtml",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.2_CONFERENCES/2017/2017-11_QUOIMATIERESIGNE/table-of-soft-elements/index.html",
+		"/Users/pia.pandelakis/Downloads/css-periodic-table/css/style.css",
+		"/Users/pia.pandelakis/Downloads/css-periodic-table/index.html",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.2_CONFERENCES/2017/2017-11_QUOIMATIERESIGNE/table-of-soft-elements/styles.css",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.2_CONFERENCES/2017/2017-11_QUOIMATIERESIGNE/table-of-elements/styles.css",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.2_CONFERENCES/2017/2017-11_QUOIMATIERESIGNE/table-of-elements/index.html",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.5_CINEDESIGN/2017_CINEDESIGN16_publi/textes-v4/articles-markdown/7_GENRE_La-table-comme-lieu.md",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.5_CINEDESIGN/2017_CINEDESIGN16_publi/textes-v4/articles-markdown/2_PANDELAKIS_le-plan-objet.md",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.5_CINEDESIGN/2017_CINEDESIGN16_publi/textes-v4/articles-markdown/5_MASURE_Panne-des-imaginaires.md",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L2_PROD-2D-web/site-lexique-democlasse/index.html",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L2_PROD-2D-web/site-lexique-democlasse/styles.css",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L2_PROD-2D-web/site-lexique-democlasse/notice_rss-democlasse.html",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L2_PROD-2D-web/site-lexique-demo/about.html",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L2_PROD-2D-web/site-lexique-demo/authors.html",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2017-2018/L2_PROD-2D-web/site-lexique-demo/notice_rss.html",
+		"/Applications/MAMP/htdocs/meta-4/mesencyclopedistes.github.io/apropos.md",
+		"/Applications/MAMP/htdocs/site-master/master-dtct.github.io/2-l-equipe.md",
+		"/Applications/MAMP/htdocs/site-master/master-dtct.github.io/_posts/2016-11-12-cinedesign-je.md",
+		"/Applications/MAMP/htdocs/site-master/master-dtct.github.io/index.html",
+		"/Applications/MAMP/htdocs/site-master/master-dtct.github.io/_site/2017/10/22/wks-recherche/index.html",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.2_CONFERENCES/2017/2017-10_espaces-queer/2018_cuisines-queer/css/print/pdf.css",
+		"/Applications/MAMP/htdocs/site-master/master-dtct.github.io/_layouts/page.html",
+		"/Users/pia.pandelakis/Downloads/CaptionHoverEffects/css/component.css",
+		"/Users/pia.pandelakis/Downloads/CaptionHoverEffects/css/default.css",
+		"/Users/pia.pandelakis/Downloads/CaptionHoverEffects/README.md",
+		"/Users/pia.pandelakis/Downloads/tinytypo.css",
+		"/Users/pia.pandelakis/Downloads/Solide-Mirage-master/fonts/font.css",
+		"/Applications/MAMP/htdocs/ledigeste/piapandelakis.github.io/_posts/2017-09-17-11-Digeste2.markdown",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.5_CINEDESIGN/2017_CINEDESIGN16_publi/textes-v4/articles-markdown/10_La-publication-buissonniere.md",
+		"/Users/pia.pandelakis/Documents/6_WEB/save-sites/piapandelakis.com-0917/illustration/kirby/toolkit/lib/f.php",
+		"/Applications/MAMP/htdocs/cinedesign/kirby/core/content.php",
+		"/Applications/MAMP/htdocs/cinedesign/assets/css/site.css",
+		"/Applications/MAMP/htdocs/ledigeste/piapandelakis.github.io/_posts/2017-08-17-Digeste1.markdown",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.5_CINEDESIGN/2017_CINEDESIGN16_publi/textes-v4/articles-markdown/3_PANDELAKIS_Pour-penser-un-CineDesign.md",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.5_CINEDESIGN/2017_CINEDESIGN16_publi/textes-v4/2_PANDELAKIS_le-plan-objet.md",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.5_CINEDESIGN/2017_CINEDESIGN16_publi/textes-v4/2_PANDELAKIS_plan-objet.html",
+		"/Applications/MAMP/htdocs/2017_bootson-project/README.md",
+		"/Applications/MAMP/htdocs/2015_bootson-project/site/templates/home.php",
+		"/Applications/MAMP/htdocs/2015_bootson-project/site/blueprints/homepage.php",
+		"/Applications/MAMP/htdocs/2015_bootson-project/site/accounts/index.html",
+		"/Applications/MAMP/htdocs/2015_bootson-project/readme.md",
+		"/Applications/MAMP/htdocs/site-master/master-dtct.github.io/_config.yml",
+		"/Applications/MAMP/htdocs/ledigeste/piapandelakis.github.io/_sass/_tiles.scss",
+		"/Applications/MAMP/htdocs/ledigeste/piapandelakis.github.io/about.md",
+		"/Applications/MAMP/htdocs/ledigeste/piapandelakis.github.io/_includes/navigation.html",
+		"/Applications/MAMP/htdocs/ledigeste/piapandelakis.github.io/_data/authors.yml",
+		"/Applications/MAMP/htdocs/ledigeste/piapandelakis.github.io/_includes/header.html",
+		"/Applications/MAMP/htdocs/ledigeste/piapandelakis.github.io/_includes/page-author.html",
+		"/Applications/MAMP/htdocs/ledigeste/piapandelakis.github.io/_sass/_layout.scss",
+		"/Applications/MAMP/htdocs/ledigeste/piapandelakis.github.io/_posts/2017-08-06-pia-vegans.markdown",
+		"/Applications/MAMP/htdocs/pia-pandelakis/assets/css/styles.css",
+		"/Applications/MAMP/htdocs/pia-pandelakis/panel/assets/scss/components/_fontawesome.scss",
+		"/Applications/MAMP/htdocs/pia-pandelakis/site/templates/page.php",
+		"/Applications/MAMP/htdocs/pia-pandelakis/assets/css/src/generic/_fonts.scss",
+		"/Applications/MAMP/htdocs/pia-pandelakis/assets/css/src/styles.scss",
+		"/Applications/MAMP/htdocs/cinedesign/site/templates/default.php",
+		"/Applications/MAMP/htdocs/cinedesign/readme.md",
+		"/Applications/MAMP/htdocs/cinedesign/content/typo/page.txt",
+		"/Applications/MAMP/htdocs/cinedesign/content/2-intention/default.txt",
+		"/Applications/MAMP/htdocs/cinedesign/content/1-intention-de-recherche/default.txt",
+		"/Applications/MAMP/htdocs/meta-4/mesencyclopedistes.github.io/public/css/meta4.css",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2016-2017/L3_CM_QUEER_DESIGN/queer-design-map/css/style.css",
+		"/Applications/MAMP/htdocs/meta-4/mesencyclopedistes.github.io/_includes/sidebar.html",
+		"/Applications/MAMP/htdocs/meta-4/brouillons-posts/archive/2014-01-01-example-content.md",
+		"/Applications/MAMP/htdocs/meta4/mesencyclopedistes.github.io/assets/css/main.scss",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.2_CONFERENCES/2017/2017_backoff/2017_backoff_prez/index.html",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.2_CONFERENCES/2016/10_CINEDESIGN16/CINEDESIGN16_com/img-sources/fontes-cinedesign/Lora-Cyrillic-master/devanagari/README.md",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.2_CONFERENCES/2017/2017_backoff/2017_backoff_prez/css/theme/pia.css",
+		"/Users/pia.pandelakis/Documents/1_RECHERCHE/1.2_CONFERENCES/2017/2017_backoff/2017_backoff_prez/demo.html",
+		"/Users/pia.pandelakis/Downloads/deck.js-latest/README.md",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2016-2017/L3_CM_QUEER_DESIGN/queer-design-map/index.html",
+		"/Users/pia.pandelakis/Downloads/Interactive3DMallMap/index.html",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2016-2017/L3_CM_QUEER_DESIGN/queer-design-map/index2.html",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2016-2017/L3_CM_QUEER_DESIGN/queer-design-map/css/normalize.css",
+		"/Users/pia.pandelakis/Documents/2_UT2J-COURS/2.2_LICENCE-DESIGN/Licence_2016-2017/L3_CM_QUEER_DESIGN/queer-design-map/base-level.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 125.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 435.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
